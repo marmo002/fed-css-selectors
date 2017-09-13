@@ -11,3 +11,8 @@ h1, h2 {
 header {
   border-bottom: solid 1px red;
 }
+
+/*Class selector*/
+.class-list {
+  list-style: square;
+}
