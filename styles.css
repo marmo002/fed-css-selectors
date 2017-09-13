@@ -50,3 +50,15 @@ header {
 #advanced-selectors ol li:nth-child(odd) p {
   background-color: green;
 }
+
+a[title="Bitmaker"]:hover {
+  text-decoration: none;
+}
+
+.exercises a:hover {
+  background-color: yellow;
+}
+
+.exercises a:active {
+  background-color: red;
+}
