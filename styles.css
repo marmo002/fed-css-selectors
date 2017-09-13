@@ -39,3 +39,14 @@ header {
 #item2 {
   text-align: right;
 }
+
+/*advance selectors*/
+
+#advanced-selectors ol li p {
+  padding: 10px;
+  background-color: grey;
+}
+
+#advanced-selectors ol li:nth-child(odd) p {
+  background-color: green;
+}
