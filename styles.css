@@ -16,3 +16,11 @@ header {
 .class-list {
   list-style: square;
 }
+
+.item {
+  border: solid 1px pink;
+}
+
+.even {
+  background-color: grey;
+}
